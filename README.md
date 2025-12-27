@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Jericho ✨</h1>
-<h3 align="center">Desarrollador de Software | Creador en constante aprendizaje</h3>
+<h3 align="center">Desarrollador de Software</h3>
 
+<br>
 <p align="center">
   <a href="mailto:jerichoelises27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
