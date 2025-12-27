@@ -5,6 +5,10 @@
   <a href="mailto:jerichoelises27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://wa.me/51916531955" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <br>
@@ -20,7 +24,9 @@
 
 🚀 Interesado en seguir creciendo profesionalmente, aprendiendo nuevas tecnologías y asumiendo nuevos retos.<br><br>
 
-📫 <strong>Contacto:</strong> jerichoelises27@gmail.com
+📫 <strong>Contacto:</strong><br>
+📧 <a href="mailto:jerichoelises27@gmail.com">jerichoelises27@gmail.com</a><br>
+📱 <a href="https://wa.me/51916531955" target="_blank">Teléfono</a>
 </p>
 
 <br>
@@ -32,3 +38,4 @@
 </p>
 
 <br>
+
