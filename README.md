@@ -35,7 +35,7 @@
 <h2>🛠️ Tecnologías y herramientas</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,kotlin,cs,java,php,apple,swift,py,dotnet,css,html,js,ts,nodejs,mysql,mongodb,postgres,firebase,git,github,docker,postman,eclipse,spring,maven,rabbitmq,vscode,visualstudio,bash,linux,kali&perline=12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,kotlin,cs,java,php,apple,swift,py,dotnet,css,html,js,ts,nodejs,mysql,mongodb,postgres,firebase,git,github,docker,postman,eclipse,angular,spring,maven,rabbitmq,vscode,visualstudio,bash,linux,kali&perline=12" />
 </p>
 
 <br>
