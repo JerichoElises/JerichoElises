@@ -19,6 +19,8 @@
 <p align="left">
 🎓 Egresado de <strong>Computación e Informática – Cibertec</strong>.<br><br>
 
+🏛️ Actualmente convalidando a <strong>Ingeniería de Sistemas – UPC</strong>.<br><br>
+
 💻 Apasionado por el desarrollo de software, con experiencia en distintos entornos y tecnologías.<br><br>
 
 📝 He desempeñado roles como <strong>desarrollador</strong>, <strong>emprendedor</strong> y <strong>programador freelance</strong>, siempre enfocado en crear soluciones eficientes y escalables.<br><br>
@@ -27,7 +29,8 @@
 
 📫 <strong>Contacto:</strong><br>
 📧 <a href="mailto:jerichoelises27@gmail.com">jerichoelises27@gmail.com</a><br>
-📱 <a href="https://wa.me/51916531955" target="_blank">Teléfono</a>
+📱 <a href="https://wa.me/51916531955" target="_blank">Teléfono</a><br>
+💼 <a href="https://www.linkedin.com/in/jericho-o-neill-elises-de-la-cruz-ab2b863a6" target="_blank">LinkedIn</a>
 </p>
 
 <br>
